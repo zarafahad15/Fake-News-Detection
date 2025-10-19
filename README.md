@@ -100,6 +100,3 @@ Output → 1 (Fake News) or 0 (Real News)
 
 ⸻
 
----
-
-Would you like me to also generate the **requirements.txt** (so you can include it in your repo and easily install all libraries)?
